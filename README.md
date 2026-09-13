@@ -4,7 +4,7 @@ Ebook thực hành của học phần PET10001, Trường ĐH Khoa học Tự nh
 
 **Tác giả:** Ngan V.T. Nguyen
 
-**Đọc tại:** https://zipexpo.github.io/oop-cpp/
+**Đọc tại:** https://oop-cpp-gules.vercel.app (hoặc bản trên GitHub Pages: https://zipexpo.github.io/oop-cpp/)
 
 Repo này chỉ chứa trang web đã dựng sẵn, do tác giả cập nhật. Chương nào có phần làm theo từng bước
 trùng bài lab thì chỉ mở sau khi buổi lab đó đã khoá bài nộp.
